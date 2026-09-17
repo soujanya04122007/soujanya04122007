@@ -29,3 +29,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soujanya04122007&show_icons=true&locale=en" alt="soujanya04122007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soujanya04122007&" alt="soujanya04122007" /></p>
+![Profile Views](https://komarev.com/ghpvc/?username=soujanya04122007&label=Profile%20Views&color=0e75b6&style=flat)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soujanya04122007&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=soujanya04122007)
