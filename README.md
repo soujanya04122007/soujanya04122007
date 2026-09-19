@@ -1,20 +1,26 @@
 # 👋 Hey there! I'm Soujanya Nagaraj Pyati
 
-<h3 align="center">🤖 AIML Student | AI & Machine Learning Enthusiast | Generative AI Explorer</h3>
+<h1 align="center">🤖 AIML Student | AI & Machine Learning Enthusiast</h1>
+
+<h3 align="center">Building Intelligent Solutions for Real-World Impact 🚀</h3>
 
 <p align="center">
-  Learning • Building • Innovating • Creating Impact 🚀
+  <img src="https://komarev.com/ghpvc/?username=soujanya04122007&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ## 🙋‍♀️ About Me
 
-- 🎓 Artificial Intelligence & Machine Learning Student
-- 🤖 Passionate about AI, Machine Learning, Generative AI and Data Science
-- 🌱 Currently learning Machine Learning, Deep Learning and Generative AI
-- 💡 Interested in solving real-world problems using technology
-- 🚀 Continuously improving through projects, courses and competitions
+🎓 AIML Student passionate about Artificial Intelligence and Machine Learning
+
+🧠 Exploring Generative AI, Data Science, and Smart Technologies
+
+🌱 Currently learning Deep Learning and Advanced AI concepts
+
+🚀 Building projects and continuously improving my technical skills
+
+💡 Interested in solving real-world problems using technology
 
 ---
 
@@ -46,19 +52,27 @@ Artificial Intelligence • Machine Learning • Generative AI • Python • Da
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soujanya04122007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soujanya04122007&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=soujanya04122007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soujanya04122007&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -73,37 +87,47 @@ Artificial Intelligence • Machine Learning • Generative AI • Python • Da
 
 ## 📈 Contribution Activity Graph
 
-[![Soujanya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soujanya04122007&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soujanya04122007&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=soujanya04122007&theme=tokyonight&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=soujanya04122007&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌟 Featured Repositories
-
-- Coming Soon 🚀
-- AI & Machine Learning Projects
-- Generative AI Experiments
-- Python Applications
+<p align="center">
+  <a href="https://github.com/soujanya04122007">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=soujanya04122007&repo=soujanya04122007&theme=tokyonight&hide_border=true"/>
+  </a>
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- 📧 soujanyanagarajpyati4@gmail.com
-- 💻 GitHub: https://github.com/soujanya04122007
+📧 **Email:** soujanyanagarajpyati4@gmail.com
+
+💻 **GitHub:** https://github.com/soujanya04122007
 
 ---
 
 ## ⚡ Fun Fact
 
-> I enjoy turning ideas into intelligent solutions and exploring how AI can create real-world impact.
+> I enjoy turning ideas into intelligent solutions and exploring how AI can create real-world impact. 🤖✨
+
+---
+
+## 💡 My Journey
+
+**Learn 📚 → Build 💻 → Experiment 🧪 → Innovate 💡 → Create Impact 🌍**
 
 ---
 
@@ -112,3 +136,8 @@ Artificial Intelligence • Machine Learning • Generative AI • Python • Da
 <p align="center">
 Always Curious • Always Learning • Always Building 🚀
 </p>
+
+<!--
+Widgets use public GitHub stats services and may occasionally be rate-limited.
+GitHub Stats, Streak Stats, Activity Graph and Trophy cards are dynamically generated.
+-->
