@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 # 👋 Hi, I'm **Soujanya Nagaraj Pyati**
@@ -192,31 +191,9 @@ I believe technology becomes meaningful when it is used to create practical solu
     ┌─────────────┐
     │    Impact   │
     └─────────────┘
-````
-
----
-
-## 🤝 Connect With Me
-
+🤝 Connect With Me
+<div align="center"> <a href="https://github.com/soujanya04122007"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:soujanyanagarajpyati4@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
 <div align="center">
-
-<a href="https://github.com/soujanya04122007">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:soujanyanagarajpyati4@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-### **Let's build the future with AI & Machine Learning. 🤖**
-
-</div>
-```
+⭐ Thanks for visiting my profile!
+Let's build the future with AI & Machine Learning. 🤖
+</div> ```
