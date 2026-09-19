@@ -1,143 +1,222 @@
-# 👋 Hey there! I'm Soujanya Nagaraj Pyati
+````markdown
+<div align="center">
 
-<h1 align="center">🤖 AIML Student | AI & Machine Learning Enthusiast</h1>
+# 👋 Hi, I'm **Soujanya Nagaraj Pyati**
 
-<h3 align="center">Building Intelligent Solutions for Real-World Impact 🚀</h3>
+### 🤖 AIML Student | AI Enthusiast | Building Solutions for Society
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=soujanya04122007&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%7C+Machine+Learning;Generative+AI+%7C+Data+Science;Python+%7C+Problem+Solving;Building+AI+Solutions+for+Real-World+Problems" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 🧠 About Me
+
+🎓 I'm an **Artificial Intelligence & Machine Learning (AIML) student** passionate about using technology to solve real-world problems.
+
+💡 I enjoy exploring **Artificial Intelligence, Machine Learning, Generative AI, and Data Science**.
+
+🐍 I work with **Python** and continuously develop my programming and problem-solving skills.
+
+🤖 I enjoy building **Machine Learning solutions** that transform data into useful insights and predictions.
+
+📚 Currently strengthening my knowledge in **Machine Learning, Deep Learning, Generative AI, and Data Science**.
+
+🎯 My goal is to become an **AI/ML Engineer** and build meaningful technology solutions.
+
+---
+
+## 💻 Tech Stack
+
+### 🐍 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,java" />
+</p>
+
+### 🤖 AI & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+### 🌐 Web & Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,flask" />
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## 🙋‍♀️ About Me
-
-🎓 AIML Student passionate about Artificial Intelligence and Machine Learning
-
-🧠 Exploring Generative AI, Data Science, and Smart Technologies
-
-🌱 Currently learning Deep Learning and Advanced AI concepts
-
-🚀 Building projects and continuously improving my technical skills
-
-💡 Interested in solving real-world problems using technology
-
----
-
-## 🔭 Currently Working On
-
-- AI & Machine Learning Projects
-- Generative AI Applications
-- Python Development
-- Open Source Learning
-
----
-
-## 🌱 Currently Learning
-
-- Python
-- Machine Learning
-- Deep Learning
-- Generative AI
-- Data Science
-- Git & GitHub
-
----
-
-## 💬 Ask Me About
-
-Artificial Intelligence • Machine Learning • Generative AI • Python • Data Science • IoT • GitHub • Technology & Innovation
-
----
-
-## 🛠️ Tech Stack
+## 🤖 AI / ML Interests
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-🤖-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine%20Learning-🧠-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Generative%20AI-✨-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deep%20Learning-🔬-blue?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+<br>
 
-<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Science-📊-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NLP-💬-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer%20Vision-👁️-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Predictive%20Analytics-📈-blue?style=for-the-badge" />
 
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+# 🚀 Featured Project
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=soujanya04122007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soujanya04122007&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+## 📉 Customer Churn Prediction
+
+**Machine Learning | Predictive Analytics | Classification**
+
+A Machine Learning project that analyzes historical customer data and predicts whether customers are likely to **churn or stay**.
+
+The project demonstrates an end-to-end Machine Learning workflow including **data exploration, preprocessing, classification, prediction, and model evaluation**.
+
+### 🔍 Key Features
+
+- 📂 Customer data analysis
+- 🧹 Data preprocessing
+- 🔎 Exploratory data analysis
+- 🤖 Machine Learning classification
+- 🎯 Customer churn prediction
+- 📊 Model evaluation
+- 📈 Confusion matrix visualization
+- 💡 Churn pattern analysis
+
+### 🛠️ Technologies
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Seaborn`
+
+### 🔗 Project Repository
+
+<div align="center">
+
+<a href="https://github.com/soujanya04122007/codevision-task4-customer-churn-prediction">
+
+<img src="https://img.shields.io/badge/View%20Project-GitHub-black?style=for-the-badge&logo=github" />
+
+</a>
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+- 🐍 Advanced Python
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- ✨ Generative AI
+- 📊 Data Science
+- 💬 Natural Language Processing
+- 👁️ Computer Vision
+- 🔗 Git & GitHub
+- 🌐 AI Application Development
+
+---
+
+## 🏆 Certifications & Learning
+
+I continuously develop my technical knowledge through **courses, certifications, workshops, internships, and AI/ML learning programs**.
+
+### Focus Areas
+
+`Artificial Intelligence` • `Machine Learning` • `Generative AI` • `Python` • `Data Science`
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=soujanya04122007&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soujanya04122007&layout=compact&hide_border=true" height="170"/>
+
+</div>
 
 ---
 
 ## 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=soujanya04122007&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=soujanya04122007&hide_border=true" />
+
+</div>
 
 ---
 
-## 📈 Contribution Activity Graph
+## 🌱 My Goal
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soujanya04122007&theme=tokyo-night&hide_border=true"/>
-</p>
+> **Learn AI. Build intelligently. Solve real-world problems. Create impact.**
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=soujanya04122007&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+I believe technology becomes meaningful when it is used to create practical solutions and make a positive difference in people's lives.
 
 ---
 
-## 🚀 Featured Projects
+## 💡 What I'm Working Toward
 
-<p align="center">
-  <a href="https://github.com/soujanya04122007">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=soujanya04122007&repo=soujanya04122007&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
-
----
-
-## 📫 Connect With Me
-
-📧 **Email:** soujanyanagarajpyati4@gmail.com
-
-💻 **GitHub:** https://github.com/soujanya04122007
-
----
-
-## ⚡ Fun Fact
-
-> I enjoy turning ideas into intelligent solutions and exploring how AI can create real-world impact. 🤖✨
-
----
-
-## 💡 My Journey
-
-**Learn 📚 → Build 💻 → Experiment 🧪 → Innovate 💡 → Create Impact 🌍**
+```text
+          AI
+          │
+          ▼
+    ┌─────────────┐
+    │   Learning  │
+    └──────┬──────┘
+           │
+           ▼
+    ┌─────────────┐
+    │   Building  │
+    └──────┬──────┘
+           │
+           ▼
+    ┌─────────────┐
+    │  Innovation │
+    └──────┬──────┘
+           │
+           ▼
+    ┌─────────────┐
+    │    Impact   │
+    └─────────────┘
+````
 
 ---
 
-<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
+## 🤝 Connect With Me
 
-<p align="center">
-Always Curious • Always Learning • Always Building 🚀
-</p>
+<div align="center">
 
-<!--
-Widgets use public GitHub stats services and may occasionally be rate-limited.
-GitHub Stats, Streak Stats, Activity Graph and Trophy cards are dynamically generated.
--->
+<a href="https://github.com/soujanya04122007">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:soujanyanagarajpyati4@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+### **Let's build the future with AI & Machine Learning. 🤖**
+
+</div>
+```
